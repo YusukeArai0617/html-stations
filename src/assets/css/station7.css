@@ -1,0 +1,25 @@
+@charset "utf-8";
+* {
+  background-color: #ffffff;
+  padding: 10px;
+}
+p {
+  color: #282828;
+}
+.card__img-top {
+  width: 268px;
+  height: 162px;
+  margin-bottom: 10px;
+}
+header {
+  background-color: #ffffff;
+}
+body {
+  background-color: #c4c4c4;
+}
+footer {
+  background-color: #ffffff;
+}
+.card {
+  font-size: large;
+}
